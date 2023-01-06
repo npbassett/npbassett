@@ -1,4 +1,19 @@
-### Hi there 👋
+## Hi, I'm Neil! 👋
+
+- 🧑‍💻 Mobile developer (iOS, Android) looking for job opportunities beginning in late Spring or Summer 2023.  
+- 🔭 Currently an astrophysics PhD student at [CU Boulder](https://www.colorado.edu/aps) (graduating May 2023).
+
+I have an extensive background with object-oriented Python programming from academic research projects, and also have experience in iOS (Swift, SwiftUI) and Android (Kotlin, Android Studio) mobile development from completing independent projects. I take pride in being a quick learner with a curious mind and having strong communication skills, particularly the ability to translate complex topics into easy-to-understand concepts.
+
+## Skills
+- **Languages**: Python, Swift, Kotlin
+- **Tools and Technologies**: SwiftUI, XCode, Android Studio, Git, Google Firebase
+
+## Contact me!
+- 📫 Email: bassett.neil@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/neil-bassett/
+
+### Check out some of my latest projects below! 👇
 
 <!--
 **npbassett/npbassett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
