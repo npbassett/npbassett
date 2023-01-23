@@ -6,8 +6,8 @@
 I have an extensive background with object-oriented Python programming from academic research projects, and also have experience in iOS (Swift, SwiftUI) and Android (Kotlin, Android Studio) mobile development from completing independent projects. I take pride in being a quick learner with a curious mind and having strong communication skills, particularly the ability to translate complex topics into easy-to-understand concepts.
 
 ## Skills
-- **Languages**: Python, Swift, Kotlin
-- **Tools and Technologies**: SwiftUI, XCode, Android Studio, Git, Google Firebase
+- **Languages**: Python, Swift, Kotlin, Java, SQL, HTML, JavaScript
+- **Tools and Technologies**: XCode, SwiftUI, Android Studio, Git, Google Firebase, Apple MapKit, NumPy, SciPy, Pandas, PyTorch, TensorFlow, Scikit-learn, LaTeX, iOS, MacOS, Linux
 
 ## Contact me!
 - 📫 Email: bassett.neil@gmail.com
